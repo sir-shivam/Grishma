@@ -1,0 +1,12 @@
+Unique Lawyers with category count >= 50: 2
+
+Ajay Sethi:
+   - Civil Law (51)
+   - Criminal Law (71)
+   - Family Law (109)
+   - Property Law (97)
+
+T Kalaiselvan:
+   - Family Law (62)
+   - Property Law (50)
+

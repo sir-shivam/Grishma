@@ -1,0 +1,288 @@
+Ajay N S:
+   - Civil Law (19)
+   - Criminal Law (40)
+   - Family Law (122)
+   - Property Law (54)
+
+Ajay Sethi:
+   - Business Law (96)
+   - Civil Law (339)
+   - Constitutional Law (36)
+   - Criminal Law (507)
+   - Family Law (828)
+   - Labour (70)
+   - Property Law (749)
+   - Taxation (27)
+
+Anik Miu:
+   - Civil Law (26)
+   - Criminal Law (57)
+   - Family Law (98)
+   - Property Law (102)
+
+Anilesh Tewari:
+   - Civil Law (15)
+   - Criminal Law (47)
+   - Family Law (81)
+   - Labour (10)
+   - Property Law (30)
+
+Ashish Davessar:
+   - Civil Law (60)
+   - Criminal Law (115)
+   - Family Law (187)
+   - Property Law (96)
+
+Atulay Nehra:
+   - Family Law (19)
+
+Aveek Bose:
+   - Family Law (29)
+
+B.T. Ravi:
+   - Property Law (31)
+
+Devajyoti Barman:
+   - Business Law (14)
+   - Civil Law (45)
+   - Criminal Law (135)
+   - Family Law (270)
+   - Labour (11)
+   - Property Law (62)
+
+Dinesh Sharawat:
+   - Criminal Law (19)
+   - Family Law (43)
+
+Ganesh Kadam:
+   - Civil Law (24)
+   - Criminal Law (47)
+   - Family Law (83)
+   - Property Law (61)
+
+Ganesh Singh:
+   - Family Law (11)
+
+Gowaal Padavi:
+   - Property Law (30)
+
+Hemant Agarwal:
+   - Business Law (11)
+   - Criminal Law (57)
+   - Property Law (122)
+
+Hemant Chaudhary:
+   - Civil Law (17)
+   - Criminal Law (34)
+   - Family Law (40)
+   - Property Law (22)
+
+Kallol Majumdar:
+   - Family Law (10)
+
+Kiran N. Murthy:
+   - Property Law (10)
+
+Kishan Dutt Kalaskar:
+   - Civil Law (35)
+   - Criminal Law (53)
+   - Family Law (147)
+   - Labour (32)
+   - Property Law (166)
+
+Krishna Kishore Ganguly:
+   - Civil Law (20)
+   - Criminal Law (38)
+   - Family Law (92)
+   - Property Law (42)
+
+Lakshmi Kanth:
+   - Family Law (15)
+
+Mohammed Mujeeb:
+   - Business Law (10)
+   - Civil Law (39)
+   - Criminal Law (94)
+   - Family Law (171)
+   - Labour (10)
+   - Property Law (141)
+
+Mohammed Shahzad:
+   - Business Law (21)
+   - Civil Law (54)
+   - Criminal Law (131)
+   - Family Law (238)
+   - Labour (55)
+   - Property Law (168)
+   - Taxation (11)
+
+Mohit Kapoor:
+   - Criminal Law (31)
+   - Family Law (70)
+   - Property Law (32)
+
+Muraleedharan R:
+   - Family Law (13)
+
+Nadeem Qureshi:
+   - Civil Law (29)
+   - Criminal Law (77)
+   - Family Law (458)
+   - Property Law (21)
+
+Netra Mohanchandra Pant:
+   - Family Law (11)
+
+Netravathi Kalaskar:
+   - Civil Law (19)
+   - Criminal Law (36)
+   - Family Law (248)
+   - Property Law (92)
+
+Pradeep Bharathipura:
+   - Family Law (48)
+   - Property Law (17)
+
+Prashant Nayak:
+   - Civil Law (10)
+   - Criminal Law (38)
+   - Family Law (48)
+   - Property Law (31)
+
+Pulkit Chandna:
+   - Family Law (11)
+   - Property Law (15)
+
+Pulkit Prakash:
+   - Family Law (21)
+
+Rahul Jatain:
+   - Family Law (17)
+
+Rahul Mishra:
+   - Criminal Law (10)
+   - Family Law (16)
+   - Property Law (15)
+
+Rajgopalan Sripathi:
+   - Business Law (13)
+   - Civil Law (18)
+   - Criminal Law (24)
+   - Family Law (36)
+   - Property Law (97)
+
+Ramesh Pandey:
+   - Criminal Law (11)
+   - Family Law (35)
+   - Property Law (43)
+
+Ravi Shinde:
+   - Civil Law (12)
+   - Criminal Law (16)
+   - Family Law (92)
+   - Property Law (45)
+
+Retired Lawyer:
+   - Family Law (23)
+
+S J Mathew:
+   - Family Law (15)
+
+S.P. Srivastava:
+   - Family Law (10)
+
+Sanjay Baniwal:
+   - Criminal Law (12)
+   - Family Law (18)
+   - Property Law (12)
+
+Shivendra Pratap Singh:
+   - Business Law (16)
+   - Civil Law (74)
+   - Criminal Law (99)
+   - Family Law (207)
+   - Labour (16)
+   - Property Law (125)
+
+Shri Gopal Verma:
+   - Family Law (23)
+   - Property Law (15)
+
+Shubham Jhajharia:
+   - Civil Law (23)
+   - Criminal Law (34)
+   - Family Law (128)
+   - Property Law (82)
+
+Siddharth Jain:
+   - Business Law (10)
+   - Civil Law (22)
+   - Criminal Law (62)
+   - Family Law (146)
+   - Property Law (41)
+
+Soumya Kundu:
+   - Criminal Law (18)
+
+Sudershani Ray:
+   - Family Law (13)
+
+Suneel Moudgil:
+   - Family Law (15)
+
+Swarnarka Chowdhury:
+   - Civil Law (10)
+   - Criminal Law (23)
+   - Family Law (55)
+
+Swarupananda Neogi:
+   - Family Law (18)
+   - Property Law (13)
+
+T Kalaiselvan:
+   - Business Law (48)
+   - Civil Law (148)
+   - Constitutional Law (19)
+   - Criminal Law (302)
+   - Family Law (477)
+   - Labour (55)
+   - Property Law (330)
+   - Taxation (31)
+
+Tarun Budhiraja:
+   - Family Law (12)
+
+Thresiamma G. Mathew:
+   - Family Law (13)
+
+Unknown:
+   - Criminal Law (25)
+   - Family Law (55)
+   - Property Law (56)
+
+Vibhanshu Srivastava:
+   - Civil Law (10)
+   - Criminal Law (34)
+   - Family Law (100)
+   - Property Law (34)
+
+Vimlesh Prasad Mishra:
+   - Civil Law (17)
+   - Criminal Law (40)
+   - Family Law (106)
+   - Property Law (26)
+
+Yogendra Singh Rajawat:
+   - Business Law (10)
+   - Civil Law (38)
+   - Criminal Law (82)
+   - Family Law (79)
+   - Property Law (111)
+
+Yuganshu Sharma:
+   - Criminal Law (10)
+   - Family Law (15)
+
+Yusuf Rampurawala:
+   - Property Law (75)
+

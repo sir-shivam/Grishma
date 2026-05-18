@@ -1,0 +1,14 @@
+Unique Lawyers with category count >= 50: 3
+
+Ajay Sethi:
+   - Criminal Law (89)
+   - Family Law (120)
+   - Property Law (104)
+
+Nadeem Qureshi:
+   - Family Law (67)
+
+T Kalaiselvan:
+   - Criminal Law (52)
+   - Family Law (69)
+

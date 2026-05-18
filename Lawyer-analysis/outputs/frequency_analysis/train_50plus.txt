@@ -1,0 +1,120 @@
+Unique Lawyers with category count >= 50: 27
+
+Ajay N S:
+   - Family Law (122)
+   - Property Law (54)
+
+Ajay Sethi:
+   - Business Law (96)
+   - Civil Law (339)
+   - Criminal Law (507)
+   - Family Law (828)
+   - Labour (70)
+   - Property Law (749)
+
+Anik Miu:
+   - Criminal Law (57)
+   - Family Law (98)
+   - Property Law (102)
+
+Anilesh Tewari:
+   - Family Law (81)
+
+Ashish Davessar:
+   - Civil Law (60)
+   - Criminal Law (115)
+   - Family Law (187)
+   - Property Law (96)
+
+Devajyoti Barman:
+   - Criminal Law (135)
+   - Family Law (270)
+   - Property Law (62)
+
+Ganesh Kadam:
+   - Family Law (83)
+   - Property Law (61)
+
+Hemant Agarwal:
+   - Criminal Law (57)
+   - Property Law (122)
+
+Kishan Dutt Kalaskar:
+   - Criminal Law (53)
+   - Family Law (147)
+   - Property Law (166)
+
+Krishna Kishore Ganguly:
+   - Family Law (92)
+
+Mohammed Mujeeb:
+   - Criminal Law (94)
+   - Family Law (171)
+   - Property Law (141)
+
+Mohammed Shahzad:
+   - Civil Law (54)
+   - Criminal Law (131)
+   - Family Law (238)
+   - Labour (55)
+   - Property Law (168)
+
+Mohit Kapoor:
+   - Family Law (70)
+
+Nadeem Qureshi:
+   - Criminal Law (77)
+   - Family Law (458)
+
+Netravathi Kalaskar:
+   - Family Law (248)
+   - Property Law (92)
+
+Rajgopalan Sripathi:
+   - Property Law (97)
+
+Ravi Shinde:
+   - Family Law (92)
+
+Shivendra Pratap Singh:
+   - Civil Law (74)
+   - Criminal Law (99)
+   - Family Law (207)
+   - Property Law (125)
+
+Shubham Jhajharia:
+   - Family Law (128)
+   - Property Law (82)
+
+Siddharth Jain:
+   - Criminal Law (62)
+   - Family Law (146)
+
+Swarnarka Chowdhury:
+   - Family Law (55)
+
+T Kalaiselvan:
+   - Civil Law (148)
+   - Criminal Law (302)
+   - Family Law (477)
+   - Labour (55)
+   - Property Law (330)
+
+Unknown:
+   - Family Law (55)
+   - Property Law (56)
+
+Vibhanshu Srivastava:
+   - Family Law (100)
+
+Vimlesh Prasad Mishra:
+   - Family Law (106)
+
+Yogendra Singh Rajawat:
+   - Criminal Law (82)
+   - Family Law (79)
+   - Property Law (111)
+
+Yusuf Rampurawala:
+   - Property Law (75)
+

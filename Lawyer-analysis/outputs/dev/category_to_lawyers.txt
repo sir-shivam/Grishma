@@ -1,0 +1,345 @@
+Business Law:
+   - Ajay N S
+   - Ajay Sethi
+   - Anik Miu
+   - Anilesh Tewari
+   - Devajyoti Barman
+   - Ganesh Kadam
+   - Hemant Agarwal
+   - Krishna Kishore Ganguly
+   - Mohammed Mujeeb
+   - Mohammed Shahzad
+   - Nadeem Qureshi
+   - Rajgopalan Sripathi
+   - Ravi Shinde
+   - Sanjay Narayandas
+   - Saurabh Yadav
+   - Shivendra Pratap Singh
+   - Sidharth Das
+   - T Kalaiselvan
+   - Unknown
+   - Vimlesh Prasad Mishra
+   - Yogendra Singh Rajawat
+   - Yusuf Rampurawala
+
+Civil Law:
+   - Ajay N S
+   - Ajay Sethi
+   - Anik Miu
+   - Anilesh Tewari
+   - Anurag Bhatt
+   - Arihant Nahar
+   - Ashish Davessar
+   - Atul Singh
+   - B.T. Ravi
+   - Dalip Singh
+   - Devajyoti Barman
+   - Dinesh Sharawat
+   - Ganesh Kadam
+   - Gowaal Padavi
+   - Hemant Chaudhary
+   - Kishan Dutt Kalaskar
+   - Koushalya Pattan
+   - Krishna Kishore Ganguly
+   - Mohammed Mujeeb
+   - Mohammed Shahzad
+   - Mohsin I Shaikh
+   - Moumita Mitra
+   - Nadeem Qureshi
+   - Pradeep Bharathipura
+   - Prashant Nayak
+   - Pulkit Chandna
+   - R.K. Nanda
+   - Rajinder Goyal
+   - Ramesh Pandey
+   - Ravi Shinde
+   - S J Mathew
+   - S.P. Srivastava
+   - Shivendra Pratap Singh
+   - Shubham Jhajharia
+   - Siddharth Jain
+   - Suneel Moudgil
+   - Swarnarka Chowdhury
+   - T Kalaiselvan
+   - Unknown
+   - Vibhanshu Srivastava
+   - Vimlesh Prasad Mishra
+   - Yogendra Singh Rajawat
+   - Yusuf Rampurawala
+
+Constitutional Law:
+   - Ajay Sethi
+   - Ganesh Kadam
+   - Hemant Agarwal
+   - Kallol Majumdar
+   - Kishan Dutt Kalaskar
+   - Mohammed Shahzad
+   - Ramesh Pandey
+   - Shubham Jhajharia
+   - Siddharth Jain
+   - T Kalaiselvan
+   - Unknown
+
+Consumer Law:
+   - Ajay Sethi
+   - Devajyoti Barman
+   - Netravathi Kalaskar
+   - Varun Bhandari
+
+Criminal Law:
+   - Ajay N S
+   - Ajay Sethi
+   - Akram Khan
+   - Anik Miu
+   - Anilesh Tewari
+   - Arihant Nahar
+   - Arun Kasana
+   - Ashish Davessar
+   - Atulay Nehra
+   - Aveek Bose
+   - B.T. Ravi
+   - C. V. Jadhav
+   - Dalip Singh
+   - Devajyoti Barman
+   - Dinesh Sharawat
+   - Ganesh Kadam
+   - Ganesh Singh
+   - Gowaal Padavi
+   - H. S. Thukral
+   - Hemant Agarwal
+   - Hemant Chaudhary
+   - Jai Bansal
+   - Jamal Sait
+   - Johnu Kanta Bhuyan
+   - Kallol Majumdar
+   - Kishan Dutt Kalaskar
+   - Koshal Kumar Vatsa
+   - Koushalya Pattan
+   - Krishna Kishore Ganguly
+   - Laksheyender Kumar
+   - Mayank Sapre
+   - Mohammed Mujeeb
+   - Mohammed Shahzad
+   - Mohit Kapoor
+   - Moumita Mitra
+   - Mrinali Prasad
+   - Nadeem Qureshi
+   - Nahush Khubalkar
+   - Netravathi Kalaskar
+   - Niranjan
+   - Pradeep Bharathipura
+   - Pradipta Nath
+   - Prashant Nayak
+   - Pulkit Chandna
+   - Rahul Jatain
+   - Rahul Mishra
+   - Rajgopalan Sripathi
+   - Ramesh Pandey
+   - Ravi Shinde
+   - Sandeep Prakash
+   - Sanjay Baniwal
+   - Sanjay Narayandas
+   - Shivendra Pratap Singh
+   - Shubham Jhajharia
+   - Siddharth Jain
+   - Siddharth Srivastava
+   - Soumya Kundu
+   - Sricharan Telaprolu
+   - Sudershani Ray
+   - Suneel Moudgil
+   - Swarnarka Chowdhury
+   - Swarupananda Neogi
+   - T Kalaiselvan
+   - Tarun Budhiraja
+   - Thresiamma G. Mathew
+   - Toshiwapang
+   - Unknown
+   - Vibhanshu Srivastava
+   - Vimlesh Prasad Mishra
+   - Yogendra Singh Rajawat
+   - Yusuf Rampurawala
+
+Family Law:
+   - Aameer Kale
+   - Agam Sharma
+   - Ajay N S
+   - Ajay Sethi
+   - Aman Shrotriya
+   - Anik Miu
+   - Anilesh Tewari
+   - Ashish Davessar
+   - Aveek Bose
+   - Ayesha Sultana
+   - Brijendra Kumar Vishwakarma
+   - C. V. Jadhav
+   - Devajyoti Barman
+   - Dinesh Sharawat
+   - G. L. Soni
+   - Ganesh Kadam
+   - Gaurav Kumar
+   - Hemant Chaudhary
+   - Jai Bansal
+   - Jaswant Singh
+   - Jeshma Mohandas KP
+   - Kallol Majumdar
+   - Kiran N. Murthy
+   - Kishan Dutt Kalaskar
+   - Koushalya Pattan
+   - Krishna Kishore Ganguly
+   - Laksheyender Kumar
+   - Lakshmi Kanth
+   - Mayank Srivastava
+   - Minansu Bhadra
+   - Mohammad Khaleel Ahmed
+   - Mohammed Mujeeb
+   - Mohammed Shahzad
+   - Mohit Kapoor
+   - Moumita Mitra
+   - Nadeem Qureshi
+   - Netravathi Kalaskar
+   - Niranjan
+   - Prabhat Shroff
+   - Pradeep Bharathipura
+   - Prashant Nayak
+   - Pulkit Chandna
+   - Pulkit Prakash
+   - Rahul Jatain
+   - Rahul Mishra
+   - Raj Deepak Chaudhary
+   - Raj Kumar Mishra
+   - Rajgopalan Sripathi
+   - Ramesh Pandey
+   - Ravi Shinde
+   - Retired Lawyer
+   - S J Mathew
+   - S Srinivasa Prasad
+   - Shekhar Banerjee
+   - Shivendra Pratap Singh
+   - Shri Gopal Verma
+   - Shubham Jhajharia
+   - Siddharth Jain
+   - Sital Patil
+   - Sricharan Telaprolu
+   - Sudershani Ray
+   - Swarnarka Chowdhury
+   - Swarupananda Neogi
+   - T Kalaiselvan
+   - Tarun Agarwal
+   - Tarun Budhiraja
+   - Thresiamma G. Mathew
+   - Unknown
+   - Varun Bhandari
+   - Vibhanshu Srivastava
+   - Vimlesh Prasad Mishra
+   - Vivek Mapara
+   - Yogendra Singh Rajawat
+   - Yugal Anjana Bhatia
+   - Yuganshu Sharma
+
+Labour:
+   - Ajay N S
+   - Ajay Sethi
+   - Anik Miu
+   - Anilesh Tewari
+   - Ashish Davessar
+   - Devajyoti Barman
+   - Ganesh Kadam
+   - Ganesh Singh
+   - H. S. Thukral
+   - Kallol Majumdar
+   - Kishan Dutt Kalaskar
+   - Koshal Kumar Vatsa
+   - Krishna Kishore Ganguly
+   - Mohammed Mujeeb
+   - Mohammed Shahzad
+   - Netravathi Kalaskar
+   - Prasaanth Bandaru
+   - Prashant Nayak
+   - Pulkit Chandna
+   - Rajgopalan Sripathi
+   - Ram Kumar
+   - Ravi Shinde
+   - Sanmathi S. Rao
+   - Shivendra Pratap Singh
+   - Shri Gopal Verma
+   - Shubham Jhajharia
+   - Siddharth Jain
+   - Swarnarka Chowdhury
+   - T Kalaiselvan
+   - Unknown
+   - Vibhanshu Srivastava
+   - Vimlesh Prasad Mishra
+   - Yogendra Singh Rajawat
+   - Yusuf Rampurawala
+
+Property Law:
+   - Abhinav Sabharwal
+   - Abhishek Dutt
+   - Ajay N S
+   - Ajay Sethi
+   - Anik Miu
+   - Anilesh Tewari
+   - Arihant Nahar
+   - Ashish Davessar
+   - Atulay Nehra
+   - B.T. Ravi
+   - C. V. Jadhav
+   - Deepankar Kataria
+   - Devajyoti Barman
+   - Ganesh Kadam
+   - Gowaal Padavi
+   - Grishma Lad
+   - Hemant Agarwal
+   - Hemant Chaudhary
+   - Jaswant Singh
+   - Jeshma Mohandas KP
+   - Junaid Ali Khan
+   - Kallol Majumdar
+   - Kiran N. Murthy
+   - Kishan Dutt Kalaskar
+   - Koushalya Pattan
+   - Krishna Kishore Ganguly
+   - Mazher
+   - Minansu Bhadra
+   - Mohammed Mujeeb
+   - Mohammed Shahzad
+   - Mohit Kapoor
+   - Moumita Mitra
+   - Muraleedharan R
+   - Nadeem Qureshi
+   - Netravathi Kalaskar
+   - Pooja Ashar
+   - Pradeep Bharathipura
+   - Prashant Nayak
+   - Pulkit Chandna
+   - Rajashekar
+   - Rajgopalan Sripathi
+   - Ramakant Singh
+   - Ramesh Pandey
+   - Ravi Shinde
+   - S J Mathew
+   - Sanjay Baniwal
+   - Saptarshi Banerjee
+   - Selva Perumal
+   - Shashidhar S. Sastry
+   - Shivendra Pratap Singh
+   - Shubham Jhajharia
+   - Siddharth Jain
+   - Swarnarka Chowdhury
+   - Swarupananda Neogi
+   - T Kalaiselvan
+   - Thresiamma G. Mathew
+   - Unknown
+   - Vibhanshu Srivastava
+   - Vimlesh Prasad Mishra
+   - Yogendra Singh Rajawat
+   - Yuganshu Sharma
+   - Yusuf Rampurawala
+
+Taxation:
+   - Ajay Sethi
+   - Harshit Singh Jadoun
+   - Mohammed Shahzad
+   - Rajgopalan Sripathi
+   - T Kalaiselvan
+
